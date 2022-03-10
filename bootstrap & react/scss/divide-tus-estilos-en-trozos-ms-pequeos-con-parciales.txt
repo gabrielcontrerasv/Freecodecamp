@@ -1,0 +1,3 @@
+@import 'variables'
+<!-- El archivo main.scss -->
+ 
